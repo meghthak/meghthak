@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Meghna Thakur, a software engineer with 6 years of professional experience
-- 👀 I’m interested in developing my Technical Writing and documentation skills
-- 🌱 I’m currently learning Markup and GitHub version control
+- 👋 Hi, I’m Meghna Thakur, a technical writer and software engineer with 8 years of professional experience
+- 👀 I’m interested in working in Content and User experience design.
+- 🌱 I work with DITA, Markdown, GitHub, Jenkins and Workflow manager for developing and publishing content.
 - 💞️ I’m looking to collaborate on open source projects to improve documentation and code
 - 📫 How to reach me: meghthak@gmail.com
 
